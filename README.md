@@ -1,4 +1,7 @@
 #Liver-Cirrhosis-prediction
+
+
+
 In this Project we will try to Predict liver Cirrhosis disease. Cirrhosis is a late stage of Scarring (fibrosis) of the liver caused by many forms of liver diseases and conditions, such as hepatitis and chronic alcoholism.
 #About
 Liver cirrhosis prediction refers to the process of assessing the likelihood or probability of an individual developing cirrhosis, a chronic liver disease characterized by the replacement of healthy liver tissue with scar tissue. Liver cirrhosis is usually caused by long-term liver damage, such as from chronic alcoholism, hepatitis B or C infection, non-alcoholic fatty liver disease (NAFLD), autoimmune hepatitis, or other conditions.
