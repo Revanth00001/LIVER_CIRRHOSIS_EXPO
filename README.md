@@ -1,4 +1,4 @@
-Liver-Cirrhosis-prediction
+Liver-Cirrhosis-prediction Model
 
 
 In this Project we will try to Predict liver Cirrhosis disease. Cirrhosis is a late stage of Scarring (fibrosis) of the liver caused by many forms of liver diseases and conditions, such as hepatitis and chronic alcoholism.
